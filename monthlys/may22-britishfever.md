@@ -4,7 +4,7 @@
 
 **Category**: Cryptography
 
-**Challenge Link**: [mCTF Challenge]([https://play.picoctf.org/practice/challenge/284](https://ctf.mcpt.ca/problem/britishfever))
+**Challenge Link**: [mCTF Challenge](https://ctf.mcpt.ca/problem/britishfever)
 
 ## Problem
 
