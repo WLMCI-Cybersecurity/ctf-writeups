@@ -1,5 +1,11 @@
 # April '22: Colours Writeup
 
+**Contest**: Monthly Contest - April '22
+
+**Category**: Cryptography
+
+**Challenge Link**: [mCTF Challenge](https://ctf.mcpt.ca/problem/colours)
+
 ## Problem
 
 How many colours are there? 
